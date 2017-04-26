@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "701811923213",
+    "firebase_url": "https://resplendent-torch-9995.firebaseio.com",
+    "project_id": "resplendent-torch-9995",
+    "storage_bucket": "resplendent-torch-9995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701811923213:android:857519f0f744aace",
+        "android_client_info": {
+          "package_name": "com.fiap.a48327.a11mob.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701811923213-da77tg6lk1ckd5oncj3ak4611ig3qflc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWSqrhVxvFHhnmVmUUG-x9sYSk_ODZAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701811923213:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701811923213-da77tg6lk1ckd5oncj3ak4611ig3qflc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWSqrhVxvFHhnmVmUUG-x9sYSk_ODZAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
